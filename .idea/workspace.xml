@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd85ea8f-0f4a-44b0-a288-cd2d50d61642" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xb7UUxkUDh8MMII9pKSYsLTzJe" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aspectjweaver-1.9.6.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\PRAKTICUM\org.alexandersomov.spring\src\main\java\org\treguluvcource" />
+      <recent name="Z:\PRAKTICUM\org.alexandersomov.spring\src\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\PRAKTICUM\org.alexandersomov.spring\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test1 (1)">
+    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.treguluvcource.hibernate_test.Test1" />
+      <module name="org.alexandersomov.spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.treguluvcource.hibernate_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.treguluvcource.aop.Test1" />
+      <module name="org.alexandersomov.spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.treguluvcource.aop.aspects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.treguluvcource.aop.Test2" />
+      <module name="org.alexandersomov.spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.treguluvcource.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.treguluvcource.aop.Test3" />
+      <module name="org.alexandersomov.spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.treguluvcource.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.treguluvcource.springintroduction.Test6" />
+      <module name="org.alexandersomov.spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.treguluvcource.springintroduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd85ea8f-0f4a-44b0-a288-cd2d50d61642" name="Default Changelist" comment="" />
+      <created>1630611949330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630611949330</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1630679963306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630679963306" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1630782893204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630782893204" />
+    <state x="693" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1630781661928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630781661928" />
+    <state x="594" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1630679538815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630679538815" />
+    <state x="543" y="60" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1630683159992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="60" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630683159992" />
+    <state x="666" y="261" key="FileChooserDialogImpl" timestamp="1630679956040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630679956040" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1630786250533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630786250533" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1630786250533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630786250533" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1630786250533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630786250533" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1630786250533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630786250533" />
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1630656881261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630656881261" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1630679633072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630679633072" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1630670318884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630670318884" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1630741991696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630741991696" />
+    <state x="657" y="252" width="606" height="536" key="find.popup" timestamp="1630748371422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="657" y="252" width="606" height="536" key="find.popup/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630748371422" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1630748333305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630748333305" />
+  </component>
+</project>
