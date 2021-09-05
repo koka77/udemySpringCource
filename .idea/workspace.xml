@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd85ea8f-0f4a-44b0-a288-cd2d50d61642" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dd85ea8f-0f4a-44b0-a288-cd2d50d61642" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +53,7 @@
       <recent name="Z:\PRAKTICUM\org.alexandersomov.spring\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test4">
+  <component name="RunManager" selected="Application.Test5">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.treguluvcource.hibernate_test.Test1" />
       <module name="org.alexandersomov.spring" />
@@ -75,19 +73,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.treguluvcource.hibernate_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.treguluvcource.aop.Test3" />
-      <module name="org.alexandersomov.spring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.treguluvcource.aop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.treguluvcource.hibernate_test.Test5" />
+      <module name="org.alexandersomov.spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.treguluvcource.hibernate_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test5" />
         <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test3 (1)" />
         <item itemvalue="Application.Test2 (1)" />
         <item itemvalue="Application.Test1 (1)" />
-        <item itemvalue="Application.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -169,22 +167,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="666" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630679956040" />
-    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1630840180685">
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1630840471747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630840180685" />
-    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1630840180685">
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630840471747" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1630840471747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630840180685" />
-    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1630840180685">
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630840471747" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1630840471747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630840180685" />
-    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1630840180685">
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630840471747" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1630840471747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630840180685" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1630840471747" />
     <state x="540" y="254" key="IDE.errors.dialog" timestamp="1630656881261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
