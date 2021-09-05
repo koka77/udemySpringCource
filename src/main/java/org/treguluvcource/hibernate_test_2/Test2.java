@@ -16,16 +16,16 @@ public class Test2 {
                 addAnnotatedClass(Detail.class).
                 buildSessionFactory();
              Session session = factory.getCurrentSession()) {
-            Employee employee = new Employee("Nikola", "Ivanov",
-                    "HR", 850);
-            Detail detail = new Detail("New-York", "+0000000000", "nikola@mail.com");
 
-            // ВАЖНО!!! чтобы прописался detail_id нуно работнику добавить детали так же как деталям работника!
-            employee.setEmpDetail(detail);
-            detail.setEmployee(employee);
             session.beginTransaction();
 
-            session.save(detail);
+//            получение по id
+            Detail detail = session.get(Detail.class, 9);
+
+//            удаление
+            session.delete(detail);
+
+            System.out.println(detail.getEmployee());
 
             session.getTransaction().commit();
             System.out.println("Done!");
