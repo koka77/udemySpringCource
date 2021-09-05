@@ -20,7 +20,10 @@ public class Test2 {
             session.beginTransaction();
 
 //            получение по id
-            Detail detail = session.get(Detail.class, 9);
+            Detail detail = session.get(Detail.class, 1);
+
+//            чтобы разрушить связь roreign key нужно прописать нуль
+            detail.getEmployee().setEmpDetail(null);
 
 //            удаление
             session.delete(detail);

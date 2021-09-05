@@ -23,7 +23,7 @@ public class Detail {
 
     //связь между объектами уже создана, поищи ее в поле 'empDetail'
     // наличие параметра каскад -ВАЖНО!
-    @OneToOne(mappedBy = "empDetail", cascade = CascadeType.ALL)
+    @OneToOne(mappedBy = "empDetail", cascade = {CascadeType.PERSIST, CascadeType.REFRESH})
     private Employee employee;
 
     public Detail() {
