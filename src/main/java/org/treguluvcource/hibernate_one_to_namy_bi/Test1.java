@@ -16,21 +16,38 @@ public class Test1 {
                 addAnnotatedClass(Department.class).
                 buildSessionFactory();
              Session session = factory.getCurrentSession()) {
+//
+//            Department dep = new Department("IT", 1200, 300);
+//            Employee emp1 = new Employee("Alex", "Somov", 800);
+//            Employee emp2 = new Employee("Helen", "Smirnova", 1000);
+//
+//            dep.addEmployeeToDepartment(emp1);
+//            dep.addEmployeeToDepartment(emp2);
+//
+//            session.beginTransaction();
+//
+//            session.save(dep);
+//
+//            session.getTransaction().commit();
+//            System.out.println("Done!");
 
-            Department dep = new Department("IT", 1200, 300);
-            Employee emp1 = new Employee("Alex", "Somov", 800);
-            Employee emp2 = new Employee("Helen", "Smirnova", 1000);
-
-            dep.addEmployeeToDepartment(emp1);
-            dep.addEmployeeToDepartment(emp2);
 
             session.beginTransaction();
 
-            session.save(dep);
+//            получение департамента с работниками
+//            Department department = session.get(Department.class, 1);
+//            System.out.println(department);
+//            System.out.println(department.getEmps());
+
+//            получение департамента по работнику
+            Employee employee = session.get(Employee.class, 1);
+            System.out.println(employee);
+            System.out.println(employee.getDepartment());
+
+
 
             session.getTransaction().commit();
             System.out.println("Done!");
-
         }
     }
 }
