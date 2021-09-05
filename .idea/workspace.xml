@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd85ea8f-0f4a-44b0-a288-cd2d50d61642" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/Test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -40,11 +40,13 @@ public class Test1 {
 //            System.out.println(department.getEmps());
 
 //            получение департамента по работнику
+//            Employee employee = session.get(Employee.class, 1);
+//            System.out.println(employee);
+//            System.out.println(employee.getDepartment());
+
+//            ВНИМАНИЕ! удалит все записи из за каскадов в обоих таблицах
             Employee employee = session.get(Employee.class, 1);
-            System.out.println(employee);
-            System.out.println(employee.getDepartment());
-
-
+            session.delete(employee);
 
             session.getTransaction().commit();
             System.out.println("Done!");
