@@ -1,0 +1,36 @@
+package org.treguluvcource.hibernate_one_to_namy_bi;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+import org.treguluvcource.hibernate_one_to_namy_bi.entity.Department;
+import org.treguluvcource.hibernate_one_to_namy_bi.entity.Employee;
+
+public class Test1 {
+    public static void main(String[] args) {
+
+
+        try (SessionFactory factory = new Configuration().
+                configure("hibernate.cfg.xml").
+                addAnnotatedClass(Employee.class).
+                addAnnotatedClass(Department.class).
+                buildSessionFactory();
+             Session session = factory.getCurrentSession()) {
+
+            Department dep = new Department("IT", 1200, 300);
+            Employee emp1 = new Employee("Alex", "Somov", 800);
+            Employee emp2 = new Employee("Helen", "Smirnova", 1000);
+
+            dep.addEmployeeToDepartment(emp1);
+            dep.addEmployeeToDepartment(emp2);
+
+            session.beginTransaction();
+
+            session.save(dep);
+
+            session.getTransaction().commit();
+            System.out.println("Done!");
+
+        }
+    }
+}
