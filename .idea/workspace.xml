@@ -4,6 +4,7 @@
     <list default="true" id="dd85ea8f-0f4a-44b0-a288-cd2d50d61642" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Section.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Child.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1009">
-              <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+            <state relative-caret-position="173">
+              <caret line="21" column="107" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="107" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#584#585#0" expanded="true" />
@@ -62,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1276">
-              <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+            <state relative-caret-position="726">
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Section.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+            <state relative-caret-position="114">
+              <caret line="18" column="107" selection-start-line="18" selection-start-column="107" selection-end-line="18" selection-end-column="107" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#371#372#0" expanded="true" />
@@ -157,9 +158,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/entity/Department.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Child.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Section.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Child.java" />
       </list>
     </option>
   </component>
@@ -369,12 +370,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630611949330</updated>
-      <workItem from="1631009708264" duration="7002000" />
+      <workItem from="1631009708264" duration="7686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7002000" />
+    <option name="totallyTimeSpent" value="7686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -384,7 +385,7 @@
       <window_info id="Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13473769" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13473769" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -395,7 +396,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2665222" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2665222" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -559,34 +560,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Section.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Child.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1009">
-          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+        <state relative-caret-position="173">
+          <caret line="21" column="107" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="107" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#584#585#0" expanded="true" />
@@ -609,10 +586,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Section.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="18" column="107" selection-start-line="18" selection-start-column="107" selection-end-line="18" selection-end-column="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+        <state relative-caret-position="726">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
