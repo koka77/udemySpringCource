@@ -80,7 +80,6 @@ public class Child {
                 "id=" + id +
                 ", furstName='" + furstName + '\'' +
                 ", age=" + age +
-                ", sections=" + sections +
                 '}';
     }
 }
