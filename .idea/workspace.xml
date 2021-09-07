@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd85ea8f-0f4a-44b0-a288-cd2d50d61642" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.alexandersomov.spring.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/entity/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/entity/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/org.alexandersomov.spring.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,13 +18,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
-              <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+              <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Child.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+                <element signature="e#883#884#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
+                <element signature="e#990#991#0" expanded="true" />
+                <element signature="e#1021#1022#0" expanded="true" />
+                <element signature="e#1076#1077#0" expanded="true" />
+                <element signature="e#1116#1117#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Section.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,11 +129,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/applicationContext3.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/applicationContext2.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -82,24 +136,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.5.7.Final/hibernate-core-5.5.7.Final.jar!/org/hibernate/boot/registry/StandardServiceRegistryBuilder.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="135" selection-start-line="135" selection-end-line="135" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.5.7.Final/hibernate-core-5.5.7.Final.jar!/org/hibernate/cfg/Configuration.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="174" selection-start-line="174" selection-end-line="174" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -120,6 +156,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/entity/Department.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Child.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Section.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/Test1.java" />
       </list>
     </option>
   </component>
@@ -190,7 +229,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="treguluvcource" type="462c0819:PsiDirectoryNode" />
-              <item name="hibernate_one_to_namy_bi" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate_many_to_many" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemySpringCource" type="b2602c69:ProjectViewProjectNode" />
@@ -199,7 +238,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="treguluvcource" type="462c0819:PsiDirectoryNode" />
-              <item name="hibernate_one_to_namy_bi" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate_many_to_many" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,7 +297,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test1 (1)">
+    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.treguluvcource.hibernate_many_to_many.Test1" />
+      <module name="org.alexandersomov.spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.treguluvcource.hibernate_many_to_many.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.treguluvcource.hibernate_one_to_namy_bi.Test1" />
       <module name="org.alexandersomov.spring" />
@@ -300,6 +352,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1 (1)" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test1 (1)" />
       </list>
@@ -315,12 +368,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630611949330</updated>
-      <workItem from="1631009708264" duration="3240000" />
+      <workItem from="1631009708264" duration="6242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3240000" />
+    <option name="totallyTimeSpent" value="6242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -474,13 +527,6 @@
     <entry file="file://$PROJECT_DIR$/resources/myApp.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/entity/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -498,7 +544,74 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_one_to_namy_bi/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Section.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/entity/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/treguluvcource/hibernate_many_to_many/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
