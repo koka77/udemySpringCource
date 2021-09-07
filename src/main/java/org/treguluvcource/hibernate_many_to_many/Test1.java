@@ -74,14 +74,24 @@ public class Test1 {
 //            System.out.println("Done!");
 //********************************************************
             //
-            session.beginTransaction();
-            Section section = session.get(Section.class, 8);
+//            session.beginTransaction();
+//            Section section = session.get(Section.class, 8);
+//
+//            session.delete(section);
+//
+//            session.getTransaction().commit();
+//            System.out.println("Done!");
+//********************************************************//
 
-            session.delete(section);
+            session.beginTransaction();
+            Child child = session.get(Child.class, 8);
+            session.delete(child);
+
 
             session.getTransaction().commit();
             System.out.println("Done!");
-//********************************************************
+////********************************************************
+
         }
     }
 }
