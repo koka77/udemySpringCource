@@ -54,9 +54,10 @@ public class Test1 {
 
             session.beginTransaction();
 
-            Section section = session.get(Section.class, 2);
-            System.out.println(section);
-            System.out.println(section.getChildren());
+            Child child = session.get(Child.class, 7);
+            System.out.println(child);
+            System.out.println(child.getSections());
+
 
             session.getTransaction().commit();
             System.out.println("Done!");
